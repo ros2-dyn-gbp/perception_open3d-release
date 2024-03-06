@@ -1,3 +1,26 @@
+## perception_open3d (rolling) - 0.1.2-3
+
+The packages in the `perception_open3d` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling perception_open3d` on `Wed, 06 Mar 2024 20:32:14 -0000`
+
+The `open3d_conversions` package was released.
+
+Version of package(s) in repository `perception_open3d`:
+
+- upstream repository: https://github.com/ros-perception/perception_open3d.git
+- release repository: https://github.com/ros2-gbp/perception_open3d-release.git
+- rosdistro version: `null`
+- old version: `0.1.2-2`
+- new version: `0.1.2-3`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## perception_open3d (rolling) - 0.1.2-2
 
 The packages in the `perception_open3d` repository were released into the `rolling` distro by running `/usr/bin/bloom-release -r rolling perception_open3d` on `Wed, 22 Mar 2023 19:08:46 -0000`
